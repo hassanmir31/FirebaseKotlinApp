@@ -25,7 +25,7 @@ A mobile application built using Kotlin and Firebase that demonstrates user auth
 - Clean and responsive mobile UI
 
 ## 📌 Status
-Completed / In Progress (choose one)
+Completed 
 
 ## 🎯 What I Learned
 - Mobile app development using Kotlin
